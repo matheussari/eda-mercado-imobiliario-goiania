@@ -87,7 +87,7 @@ O notebook também pode ser aberto no Google Colab. Basta enviar o arquivo `2021
 
 ### Dependências
 
-`pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `openpyxl` (exportação para Excel)
+`pandas`, `numpy`, `openpyxl` (exportação para Excel)
 
 ## 6. Estrutura do repositório
 
